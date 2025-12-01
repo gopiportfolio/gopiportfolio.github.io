@@ -331,19 +331,6 @@
  display: grid;
  grid-template-columns: 1fr 1fr;
  gap: 60px;
- align-items: start;
- }
-
- .about-text h3 {
- font-size: 1.8rem;
- margin-bottom: 20px;
- color: var(--primary);
- }
-
- .about-text p {
- color: var(--text-light);
- margin-bottom: 15px;
- line-height: 1.7;
  text-align: justify;
   letter-spacing:1px;
  }
